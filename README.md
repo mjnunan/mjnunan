@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mjnunan
-- 👀 I’m interested in software development for Drone systems
+- 👀 I’m interested in software development for RPAS 
 - 🌱 I’m currently learning GIT
 - 💞️ I’m looking to collaborate on SITL
 - 📫 How to reach me ...
